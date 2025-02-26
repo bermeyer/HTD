@@ -1,4 +1,0 @@
-Notes on website - 26.02.25
-
-views - home: homepage(initial page)
-views-profile: profile page after successful login
