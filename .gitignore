@@ -37,8 +37,8 @@ node_modules
 data/*
 !data/.gitignore
 data_*/
-Notes on website.txt
+
 
 config/config.json
 migrations/*.js
-
+Notes on website.txt
