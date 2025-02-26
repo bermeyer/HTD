@@ -34,7 +34,7 @@ Icon
 
 # Package distribution
 node_modules
-#data/*
+data/*
 !data/.gitignore
 data_*/
 
