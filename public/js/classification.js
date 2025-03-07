@@ -425,7 +425,7 @@ class Panel {
 
     this.setYLabel();
 
-    this.plotDataWithBins(data, 0.02); //adjust here the bin-size of the (black) binned points to the needs of the data
+      this.plotDataWithBins(data, 0.05      ); //adjust here the bin-size of the (black) binned points to the needs of the data
   };
 
 
